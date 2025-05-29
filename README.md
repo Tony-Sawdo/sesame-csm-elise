@@ -13,7 +13,23 @@ The model can be found here: [keanteng/sesame-csm-elise](https://huggingface.co/
   - Learning Rate: 2e-5
   - Epochs: 3
   - Batch Size: 1 with gradient accumulation steps of 4
+- **GPUs Used**: 1x NVIDIA A100 40GB
 
 ## Samples
 
 Samples can be listened after downloading, you can find them [here](https://huggingface.co/keanteng/sesame-csm-elise/tree/main/inference).
+
+
+## Using This Repo
+
+Load the repo:
+
+```bash
+git clone https://github.com/keanteng/sesame-csm-elise/blob/main/requirements.txt
+```
+
+Install the requirements:
+
+```bash
+pip install -r requirements.txt
+```
