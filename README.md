@@ -16,7 +16,4 @@ The model can be found here: [keanteng/sesame-csm-elise](https://huggingface.co/
 
 ## Samples
 
-Note that there are some weird sounds in the samples probably due to the training method and further investigation is needed to improve the quality.
-
-- **Sample 1**: [Link to sample audio](sample/output.wav)
-- **Sample 2**: [Link to sample audio](sample/output_2.wav)
+Samples can be listened after downloading, you can find them [here](https://huggingface.co/keanteng/sesame-csm-elise/tree/main/inference).
