@@ -10,7 +10,7 @@ The model can be found here: [keanteng/sesame-csm-elise](https://huggingface.co/
 - **Fine-tuning Approach**: Voice cloning through conditional speech generation
 - **Voice Characteristics**: [Describe voice qualities]
 - **Training Parameters**: 
-  - Learning Rate: 5e-5
+  - Learning Rate: 2e-5
   - Epochs: 3
   - Batch Size: 1 with gradient accumulation steps of 4
 
